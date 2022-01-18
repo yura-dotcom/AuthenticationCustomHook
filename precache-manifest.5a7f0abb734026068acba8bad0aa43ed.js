@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e37e6d9b742e7de0e730bb5df0c407b1",
+    "revision": "267b3039e305a7ef35313b46a560db56",
     "url": "/AuthenticationCustomHook/index.html"
   },
   {
-    "revision": "abf3d501e9b67ef94bf4",
+    "revision": "8568c41f2b3148e3ba6b",
     "url": "/AuthenticationCustomHook/static/css/main.a5c5dee6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AuthenticationCustomHook/static/js/2.9c76b9a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abf3d501e9b67ef94bf4",
-    "url": "/AuthenticationCustomHook/static/js/main.302298bf.chunk.js"
+    "revision": "8568c41f2b3148e3ba6b",
+    "url": "/AuthenticationCustomHook/static/js/main.98045afe.chunk.js"
   },
   {
     "revision": "8a9dcbf849f50412cf04",
