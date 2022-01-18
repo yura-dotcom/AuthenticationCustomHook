@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AuthenticationCustomHook/static/css/main.a5c5dee6.chunk.css",
-    "main.js": "/AuthenticationCustomHook/static/js/main.98045afe.chunk.js",
-    "main.js.map": "/AuthenticationCustomHook/static/js/main.98045afe.chunk.js.map",
+    "main.js": "/AuthenticationCustomHook/static/js/main.0c6718dc.chunk.js",
+    "main.js.map": "/AuthenticationCustomHook/static/js/main.0c6718dc.chunk.js.map",
     "runtime-main.js": "/AuthenticationCustomHook/static/js/runtime-main.326120ef.js",
     "runtime-main.js.map": "/AuthenticationCustomHook/static/js/runtime-main.326120ef.js.map",
     "static/js/2.9c76b9a0.chunk.js": "/AuthenticationCustomHook/static/js/2.9c76b9a0.chunk.js",
     "static/js/2.9c76b9a0.chunk.js.map": "/AuthenticationCustomHook/static/js/2.9c76b9a0.chunk.js.map",
     "index.html": "/AuthenticationCustomHook/index.html",
-    "precache-manifest.5a7f0abb734026068acba8bad0aa43ed.js": "/AuthenticationCustomHook/precache-manifest.5a7f0abb734026068acba8bad0aa43ed.js",
+    "precache-manifest.ab9695a374a7b7375833212cab8e379f.js": "/AuthenticationCustomHook/precache-manifest.ab9695a374a7b7375833212cab8e379f.js",
     "service-worker.js": "/AuthenticationCustomHook/service-worker.js",
     "static/css/main.a5c5dee6.chunk.css.map": "/AuthenticationCustomHook/static/css/main.a5c5dee6.chunk.css.map",
     "static/js/2.9c76b9a0.chunk.js.LICENSE.txt": "/AuthenticationCustomHook/static/js/2.9c76b9a0.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.326120ef.js",
     "static/js/2.9c76b9a0.chunk.js",
     "static/css/main.a5c5dee6.chunk.css",
-    "static/js/main.98045afe.chunk.js"
+    "static/js/main.0c6718dc.chunk.js"
   ]
 }
